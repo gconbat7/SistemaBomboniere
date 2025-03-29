@@ -3,8 +3,9 @@ package br.com.gconbat;
 public enum Categoria {
     CHOCOLATES("Chocolates"),
     CHICLETES("Chicletes"),
-    CARAMELOS("Caramelos"),
-    PIPOCAS("Pipocas");
+    DOCES("Doces"),
+    PIPOCAS("Pipocas"),
+    BISCOITOS("Biscoitos");
 
     private final String descricao;
 
