@@ -1,4 +1,4 @@
-### *Olá, eu sou Gildo!*
+### *Sistema Bomboniere*
 
 Com base no inicio do projeto, foi criado a classe (Item) e os (construtores).
 ![img_1.png](img_1.png)
