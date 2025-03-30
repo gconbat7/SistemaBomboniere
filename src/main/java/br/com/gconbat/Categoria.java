@@ -4,7 +4,7 @@ public enum Categoria {
     CHOCOLATES("Chocolates"),
     CHICLETES("Chicletes"),
     DOCES("Doces"),
-    PIPOCAS("Pipocas"),
+    SALGADINHOS("Salgadinhos"),
     BISCOITOS("Biscoitos");
 
     private final String descricao;
